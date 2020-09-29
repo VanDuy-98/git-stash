@@ -1,1 +1,2 @@
-osad < vinhz
+osad < vinhz < binz
+
